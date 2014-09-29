@@ -7,7 +7,7 @@ Yes
 Yes, R and bash combo.
 
 ## Would you like the final class project to be a group installation or an individual/small-group project?
-I want a group installation to be a part of the class. So if that is enough, let's make that a final.
+group installation
 
 ## For our hackathon on 10/6, would you rather work on the data side of the final project or the making/designing part? (There will be a bit of both regardless)
 Making/Designing
